@@ -37,7 +37,7 @@ Built for freelance data-cleaning work — designed to be handed a client's raw 
 
 ## Example
 
-`sales_data_sample.csv` is included as a test file — run the script against it out of the box to see the expected output.
+`sales_data.csv` is included as a test file — run the script against it out of the box to see the expected output.
 
 ## About
 
