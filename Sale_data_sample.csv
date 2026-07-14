@@ -1,0 +1,16 @@
+Date,Category,Amount,Notes
+2026-06-01,Beverages,1500,
+2026-06-01,Snacks,800,
+2026-06-02,Beverages,2200,
+2026-06-02,Dairy,1200,
+2026-06-03,Snacks,950,
+2026-06-03,Beverages,1800,
+2026-06-04,Dairy,,missing amount
+2026-06-04,Snacks,700,
+2026-06-05,Beverages,2100,
+2026-06-05,Dairy,1400,
+2026-06-05,Beverages,2100,
+2026-06-06,Snacks,600,
+2026-06-06,Dairy,1100,
+2026-06-07,Beverages,1900,
+2026-06-07,Snacks,850,
